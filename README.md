@@ -1,4 +1,3 @@
-
 ![3DBoneMapper_Logo](https://github.com/Domineuq/3DBoneMapper/assets/114567200/29f67a39-015b-4435-b771-09a44eb44b6b)
 
 
