@@ -1,5 +1,6 @@
 
-# 3DBoneMapper![3DBoneMapper_Logo](https://github.com/Domineuq/3DBoneMapper/assets/114567200/b515411f-b637-4a67-bd65-72beb1818930)
+![3DBoneMapper_Logo](https://github.com/Domineuq/3DBoneMapper/assets/114567200/29f67a39-015b-4435-b771-09a44eb44b6b)
+
 
 ### The Identification Tool Using 3D Bone Segmentation and Registration
 
