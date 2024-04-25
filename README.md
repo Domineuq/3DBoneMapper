@@ -1,5 +1,6 @@
-![3DBoneMapper_Logo](https://github.com/Domineuq/3DBoneMapper/assets/114567200/d35271a7-c3da-46da-bc2d-ab77b3b29fd9)
-# 3DBoneMapper
+
+# 3DBoneMapper![3DBoneMapper_Logo](https://github.com/Domineuq/3DBoneMapper/assets/114567200/b515411f-b637-4a67-bd65-72beb1818930)
+
 ### The Identification Tool Using 3D Bone Segmentation and Registration
 
 3DBoneMapper is an automated radiologic identification tool to identify unknown deceased via comparison of postmortem with antemortem computed tomography data. 
