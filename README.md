@@ -10,7 +10,7 @@ The anatomical structures used for identification are the sternal bone and T5 ve
 
 Created by the [Forensic Medicine and Imaging Research Group](https://dbe.unibas.ch/en/research/imaging-modelling-diagnosis/forensic-medicine-imaging-research-group/).
 If you use it, please cite our publication: 
-tbd
+Neuhaus D, Wittig H, Scheurer E, Lenz C. Computational forensic identification of deceased using 3D bone segmentation and registration. Forensic Science International. 2025;367:112380. doi:10.1016/j.forsciint.2025.112380
 
 # Requirements
 + nibabel
